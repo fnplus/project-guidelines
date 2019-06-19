@@ -1,6 +1,6 @@
-# geeksgarage-project-guidelines
+# project-guidelines
 
-Guidelines for GDG Garage projects
+Guidelines for upcoming and ongoing projects under FnPlus Community
 
 # Project
 
@@ -20,7 +20,7 @@ Guidelines for GDG Garage projects
 
 ## Should have
 
-- Project should be listed on http://geeksgarage.github.io/projects/
+- Project should be listed on http://fnplus.github.io/projects/
 
 - Tests
 
