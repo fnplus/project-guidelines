@@ -20,7 +20,7 @@ Guidelines for upcoming and ongoing projects under FnPlus Community
 
 ## Should have
 
-- Project should be listed on http://fnplus.github.io/projects/
+- Project should be listed on https://github.com/orgs/fnplus/projects
 
 - Tests
 
