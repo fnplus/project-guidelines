@@ -16,7 +16,7 @@ Guidelines for upcoming and ongoing projects under FnPlus Community
 
   - Changelog (For letting others know about the progress, leave some time for that at the end of each Garage)
 
-- Code (progress) should be commited regulary. At the end of each Garage (even if it is not finished)
+- Code (progress) should be commited regulary.
 
 ## Should have
 
