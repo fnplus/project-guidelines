@@ -4,13 +4,14 @@ Guidelines for upcoming and ongoing projects under FnPlus Community
 
 # Project
 
-## Must have
+## Must have (Checklist)
 
 - (Github) Repository
 
 - (Open) License
 
 - Readme
+  - A Story - Think about what you need, and be clear and specific. How will this project help you and your community? Your job is to convince readers to be interested in your project.
 
   - Project description (It is esential to describe what problem is solved and which technologies are used)
 
